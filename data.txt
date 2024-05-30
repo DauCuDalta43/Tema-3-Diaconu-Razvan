@@ -1,0 +1,79 @@
+Strike
+Defend
+Bash
+Heavy Blade
+Pommel Strike
+Shrugg It Off
+Iron Wave
+Power Through
+Neutralize
+Deadly Poison
+Deflect
+Poisoned Stab
+Catalyst
+Footwork
+Leg Sweep
+Adrenaline
+Offering
+Limit Break
+Reaper
+Daze
+Deal 6 damage.
+Block 5 damage.
+Deal 8 damage. Apply 2 Vulnerable.
+Deal 14 damage. Strenght applies 3 times.
+Deal 8 damage. Draw 1 card.
+Block 8 damage. Draw 1 card.
+Block 5 damage. Deal 5 damage.
+Block 15 damage. Add 2 Dazed to hand.
+Deal 3 damage. Apply 1 Weak.
+Apply 5 poison.
+Block 4 damage.
+Deal 6 damage. Apply 3 poison.
+Double poison.
+Gain 2 Dexterity.
+Block 11 damage. Apply 2 Weak.
+Gain 1 Energy. Draw 2 cards.
+Gain 2 Energy. Draw 3 cards. Lose 3 Hp.
+Double your Strenght.
+Deal 4 damage. Gain Hp equal to damage dealt.
+Exhaust.
+1
+1
+2
+2
+1
+1
+1
+1
+0
+1
+0
+1
+1
+1
+2
+0
+0
+1
+1
+1Assasin
+Trapper
+Bruiser
+Rammer
+Cultist
+Inflicts 2 Vulnerable.
+Inflicts 2 Weak.
+Inflicts 2 Frail.
+Inflicts 2 Dazed.
+Gains 4 Strenght.
+30
+45
+40
+40
+30
+4
+4
+4
+3
+2
